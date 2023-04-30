@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Manual workflow
+name: testeworkflow
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -19,7 +19,7 @@ on:
         type: string
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
+jobs:teste
   # This workflow contains a single job called "greet"
   greet:
     # The type of runner that the job will run on
