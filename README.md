@@ -1,6 +1,6 @@
 # botcamp-linux-do-zero
 serão adicionadas atividades a decorrer do bootcamp.
-	CUROS:
+	CURSO:
 
 trabalhando com equipes ágeis:
 introdução a programação e pensamento computacional:
